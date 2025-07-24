@@ -2,7 +2,7 @@
 const messages = [
   {
     text: "I am sowwyy babe I annoy you sm",
-    embed: "https://open.spotify.com/track/5NwOSRnBI7c6teq6qhSFmG?si=1a4b765272f14c7e"
+    embed: "https://soundcloud.com/mitraz-sc/o-mere-saajna?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
   },
   {
     text: "This task is more interesting than prof class",
